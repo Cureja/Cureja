@@ -1,5 +1,12 @@
-### Hi there 👋
+## Latest Games Made: 
+🤖  [Not-A-Bot](https://cureja.itch.io/not-a-bot)
+> Silly autoclicker where you download suspicious programs off the net to auto-click/solve captchas and buy many special 'lil guys. Can you convince the site that you're not a bot?
 
+🅰️  [Give Me An A](https://cureja.itch.io/give-me-an-a)
+> Squish each Cheerleader into letters to form your cheer!
+
+### Open Source Projects I am Currently Focused on
+  👹  [Crawl](https://github.com/crawl/crawl)
 <!--
 **Cureja/Cureja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
